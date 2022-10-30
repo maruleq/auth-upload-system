@@ -1,0 +1,12 @@
+/** Globalne style **/
+
+
+
+/** Stopka **/
+.site-footer {
+	padding: 20px 0 20px;
+	font-size: .9rem;
+	position: fixed;
+	bottom: 0;
+	width:100%;
+}
